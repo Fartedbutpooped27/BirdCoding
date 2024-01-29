@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Delta Time (s)	Delta Freq (Hz)	Avg Power Density (dB FS/Hz)	Annotation
+1	Spectrogram 1	1	0.049039474	0.404575658	1588.840	2470.453	0.3555	881.612	-66.72	NOBO
+3	Spectrogram 1	1	1.397625002	1.851240134	1588.840	2422.012	0.4536	833.172	-65.32	NOBO
+4	Spectrogram 1	1	2.697171056	3.432763162	1569.464	2431.700	0.7356	862.236	-64.94	NOBO
+5	Spectrogram 1	1	5.357562507	5.798917771	1763.225	2402.636	0.4414	639.411	-66.12	NOBO
