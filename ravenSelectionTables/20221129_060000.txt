@@ -1,3 +1,0 @@
-Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Delta Time (s)	Delta Freq (Hz)	Avg Power Density (dB FS/Hz)	Annotation
-1	Waveform 1	1	170.415947582	170.714158307	1924.497	2624.314	0.2982	699.817		NOBOF
-1	Spectrogram 1	1	170.415947582	170.714158307	1924.497	2624.314	0.2982	699.817	-75.98	NOBOF
